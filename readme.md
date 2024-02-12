@@ -18,6 +18,7 @@
 ## Start the application
 
 <p>Before starting the application, need to decide which llm , vector model a person want.</p>
+`docker compose up -d`
 
 ### Start LLM
 <p>In Application their are major 2 ways to use the LLM that is LMStudio and OLLama and both are configured in appsettigs.json file that can make it easy to use and with no other cofiguration needed.</p>
